@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+ HEAD
 "# Hello world" 
 =======
 # Hello World  
@@ -24,5 +24,3 @@ Hi! I’m **K. Ebinesh** from **Tamil Nadu**. I’m currently learning **Full St
 - Exploring **Cloud Computing** technologies
 - Continuously learning and building real-world projects
 
----
->>>>>>> readme-edits
